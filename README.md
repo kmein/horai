@@ -16,3 +16,5 @@ In case you want a report on how long you've been working,
 run `horai project-name`,
 and be greeted by a table of work units and their duration,
 with the total duration at the bottom.
+
+![Apollo and the Horae](https://upload.wikimedia.org/wikipedia/commons/c/ce/Kersting_-_Apoll_mit_den_Stunden.jpg)
